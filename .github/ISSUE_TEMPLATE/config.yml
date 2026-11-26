@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Published OSTERA Documents
+    url: https://pub.ostera.org/
+    about: Read approved OSTERA documents.
+  - name: OSTERA Membership and General Questions
+    url: https://ostera.org/
+    about: Learn about OSTERA and how to participate.
